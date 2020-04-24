@@ -1,0 +1,16 @@
+{
+  "name": "lc101",
+  "version": "1.0.0",
+  "description": "LC101 - March 2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Corrao",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {}
+}
